@@ -51,7 +51,6 @@ gulpfile.js
 # ignore everything in the root except the "wp-content" directory.
 /*
 !wp-content/
-dev/*
 # ignore all mu-plugins, plugins, and themes
 # unless explicitly whitelisted at the end of this file
 wp-content/mu-plugins/*
